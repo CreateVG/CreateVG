@@ -106,6 +106,7 @@ I enjoy working across the full stack — from designing solid **backend archite
 ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
