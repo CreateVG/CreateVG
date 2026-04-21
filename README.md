@@ -161,15 +161,6 @@ I enjoy working across the full stack — from designing solid **backend archite
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CreateVG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreateVG&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
 <div align="center">
 
 ⭐ From [CreateVG](https://github.com/CreateVG)
